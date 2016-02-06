@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		F122045C1C65909C005B8058 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F122045B1C65909C005B8058 /* FirstViewController.m */; settings = {ASSET_TAGS = (); }; };
 		F122045F1C6594F7005B8058 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F122045E1C6594F7005B8058 /* SecondViewController.m */; settings = {ASSET_TAGS = (); }; };
+		F12204621C65A050005B8058 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F12204611C65A050005B8058 /* ThirdViewController.m */; settings = {ASSET_TAGS = (); }; };
 		F194ED5E1C18F9CB00C3146F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F194ED5D1C18F9CB00C3146F /* main.m */; };
 		F194ED611C18F9CB00C3146F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F194ED601C18F9CB00C3146F /* AppDelegate.m */; };
 		F194ED641C18F9CB00C3146F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F194ED631C18F9CB00C3146F /* ViewController.m */; };
@@ -38,6 +39,8 @@
 		F122045B1C65909C005B8058 /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 		F122045D1C6594F7005B8058 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		F122045E1C6594F7005B8058 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		F12204601C65A050005B8058 /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		F12204611C65A050005B8058 /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
 		F194ED581C18F9CB00C3146F /* Acronym.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Acronym.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F194ED5C1C18F9CB00C3146F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F194ED5D1C18F9CB00C3146F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -128,6 +131,8 @@
 				F122045B1C65909C005B8058 /* FirstViewController.m */,
 				F122045D1C6594F7005B8058 /* SecondViewController.h */,
 				F122045E1C6594F7005B8058 /* SecondViewController.m */,
+				F12204601C65A050005B8058 /* ThirdViewController.h */,
+				F12204611C65A050005B8058 /* ThirdViewController.m */,
 			);
 			path = Acronym;
 			sourceTree = "<group>";
@@ -312,6 +317,7 @@
 				F122045F1C6594F7005B8058 /* SecondViewController.m in Sources */,
 				F194ED641C18F9CB00C3146F /* ViewController.m in Sources */,
 				F194ED611C18F9CB00C3146F /* AppDelegate.m in Sources */,
+				F12204621C65A050005B8058 /* ThirdViewController.m in Sources */,
 				F122045C1C65909C005B8058 /* FirstViewController.m in Sources */,
 				F194ED861C19312200C3146F /* NetworkManager.m in Sources */,
 				F194ED5E1C18F9CB00C3146F /* main.m in Sources */,
